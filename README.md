@@ -1,3 +1,10 @@
+### Exercise 01 – Student Information Management
+<img width="767" height="312" alt="Exercise-01-Output" src="https://github.com/user-attachments/assets/ab196d88-01c5-4d66-94b6-d210047f2859" />
+
+### Exercise 02 – Bank Account Management
+<img width="763" height="316" alt="Exercise-02-Output" src="https://github.com/user-attachments/assets/064607c9-1893-492a-b9fd-21a4039ca5a1" />
+
+
 # ICT 2106 – Object-Oriented Programming Lab
 ## Assignment: Exploring the Fundamentals of OOP
 
